@@ -21,5 +21,7 @@ app.listen(configurations.PORT, () => {
     }
 )
 
+//if you have to start the project digit npm init and press enter
+//if you want to set a git project digit git init and press enter
 // you have to install express, mongoose, @assistant/conversation
 // npm i express mongoose @assistant/conversation
