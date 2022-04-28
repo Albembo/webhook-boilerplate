@@ -26,3 +26,4 @@ app.listen(configurations.PORT, () => {
 // you have to install express, mongoose, @assistant/conversation
 // npm i express mongoose @assistant/conversation
 //to start ngrok after installing, you have to digit ngrok http 3000 and press enter
+//to start the server digit node index.js and press enter
