@@ -25,3 +25,4 @@ app.listen(configurations.PORT, () => {
 //if you want to set a git project digit git init and press enter
 // you have to install express, mongoose, @assistant/conversation
 // npm i express mongoose @assistant/conversation
+//to start ngrok after installing, you have to digit ngrok http 3000 and press enter
