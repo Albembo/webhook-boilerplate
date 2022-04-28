@@ -21,4 +21,5 @@ app.listen(configurations.PORT, () => {
     }
 )
 
-//
+// you have to install express, mongoose, @assistant/conversation
+// npm i express mongoose @assistant/conversation
